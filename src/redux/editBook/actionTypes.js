@@ -1,0 +1,1 @@
+export const EDIT_BOOK_BY_ID = "edit/book";
