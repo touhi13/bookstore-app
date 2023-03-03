@@ -14,6 +14,7 @@ export default function BookForm() {
     const [rating, setRating] = useState("");
     const [featured, setFeatured] = useState(false);
 
+    //reset data
     const resetData = () => {
         setName("");
         setAuthor("");
